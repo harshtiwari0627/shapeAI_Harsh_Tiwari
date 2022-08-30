@@ -9,6 +9,7 @@ I got to learn about keras and how to train our model & then performing testing 
 <li>Deep Learning
 <br>
 <br>
-  Follow me on :
-<li><a href=
-"https://www.linkedin.com/in/harsh-tiwari-a65406179/">LinkedIn</a>
+ Follow me on :
+<li>
+LinkedIn Profile : <a href=
+"https://www.linkedin.com/in/harsh-tiwari-a65406179/">Harsh Tiwari</a>
