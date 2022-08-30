@@ -12,6 +12,3 @@ I got to learn about keras and how to train our model & then performing testing 
   Follow me on :
 <li><a href=
 "https://www.linkedin.com/in/harsh-tiwari-a65406179/">LinkedIn</a>
-<li>
-
-
